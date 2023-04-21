@@ -1,0 +1,25 @@
+{
+  "name": "sap-analyticscloudlimitation",
+  "version": "1.0.0",
+  "description": "A collection of limitation of SAP-AnalyticsCloud",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  },
+  "repository": "github:albertlast/SAP-AnalyticsCloudLimitation",
+  "keywords": [
+    "SAP",
+    "analytics",
+    "cloud",
+    "limitation",
+    "SAC"
+  ],
+  "author": "albertlast",
+  "license": "MIT",
+  "dependencies": {
+    "vitepress": "^1.0.0-alpha.73"
+  }
+}

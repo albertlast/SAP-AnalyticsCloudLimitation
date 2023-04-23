@@ -16,7 +16,10 @@ export default defineConfig({
     sidebar: [
       {
         text: "Examples",
-        items: [{ text: "General", link: "/general" }],
+        items: [
+          { text: "General", link: "/general" },
+          { text: "CSS", link: "/css" },
+        ],
       },
     ],
 

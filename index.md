@@ -11,14 +11,12 @@ hero:
       text: General
       link: /general
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: CSS
+      link: /css
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Overview
+    details: In the general part you get overview of the limitation of this framework
+  - title: CSS
+    details: For some topics the amount of limitation are higher, for this own sections exists
 ---
